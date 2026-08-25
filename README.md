@@ -1,9 +1,4 @@
-# Emotify-tree-ensembles
-Emotify Tree Ensembles
-
-Tree-based ensemble classifiers — Random Forest and Gradient Boosted Trees — for music emotion recognition (MER) on the Emotify dataset, benchmarked against previously reported SVM and KNN baselines under the GEMS-9 emotion annotation scheme.
-
-Overview
+# Overview
 
 Music emotion recognition aims to automatically predict the emotional response induced by a piece of music, using audio features. The Emotify dataset provides 400 one-minute excerpts across four genres (classical, rock, pop, electronic), each annotated by listeners using the GEMS-9 scale (Geneva Emotional Music Scale, 9-category version): amazement, solemnity, tenderness, nostalgia, calmness, power, joyful activation, tension, and sadness.
 
