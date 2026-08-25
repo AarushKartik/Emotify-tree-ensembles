@@ -19,4 +19,3 @@ Source: Emotify dataset (Aljanaki, Wiering, Veltkamp)
 Size: 400 tracks (100 per genre: classical, rock, pop, electronic), 8,407 total annotations
 Labels: GEMS-9 emotion categories, multi-label (up to 3 emotions per listener per track)
 
-The raw dataset is not included in this repository. See data/README.md for download and preprocessing instructions
