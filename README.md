@@ -11,7 +11,7 @@ Prior work on Emotify has focused almost exclusively on classical machine learni
 - Compare results against previously published SVM and KNN baselines on the same dataset
 
 # Dataset
-Source: Emotify dataset (Aljanaki, Wiering, Veltkamp)
-Size: 400 tracks (100 per genre: classical, rock, pop, electronic), 8,407 total annotations
-Labels: GEMS-9 emotion categories, multi-label (up to 3 emotions per listener per track)
+- Source: Emotify dataset (Aljanaki, Wiering, Veltkamp)
+- Size: 400 tracks (100 per genre: classical, rock, pop, electronic), 8,407 total annotations
+- Labels: GEMS-9 emotion categories, multi-label (up to 3 emotions per listener per track)
 
